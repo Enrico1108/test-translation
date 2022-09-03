@@ -1,3 +1,9 @@
 {
-    "METAR_FOR_TITLE": "Metar para {{.Icao}}"
+    "METAR_FOR_TITLE": "Metar para {{.Icao}}",
+    "METAR_NOT_AVAIBLE_TITLE": "Metar is not avaiable for {{.Icao}}",
+    "METAR_ICAO_TITLE": "ICAO:",
+    "METAR_TIME_TITLE": "Observed at:",
+    "METAR_WIND_TITLE": "Wind:",
+    "METAR_VISIBILITY_TITLE": "Visibility:",
+    "METAR_FLIGHT_RULE_TITLE": "Flight Rule:"
 }
